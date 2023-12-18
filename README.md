@@ -4,3 +4,4 @@
 - 💻 I’m interested in Software development and AI
 - 📚 Experience with Python, JavaScript, ARM, Verilog.
 - 📫 Feel free to reach out via email at: `imran.affann@gmail.com`
+- 📍 Manchester | Abu Dhabi
