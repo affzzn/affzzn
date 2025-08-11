@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Affan
-- 💻 I’m interested in Software development and AI
-- 📚 Experience with Python, TypeScript, Java, C, ARM, Verilog.
-- 📫 Feel free to reach out via email at: `affan1708@gmail.com`
-- 📍 Manchester | Abu Dhabi
+## Hello, I'm [Affan](https://affanimran.vercel.app/) 👋
+
+💻 I’m interested in Full-stack development, AI/ML, and distributed systems  
+📚 Experience with Python, TypeScript, Java, Go, C/C++  
+📫 Feel free to reach out via email at: `affan1708 <at> gmail.com` or [LinkedIn](https://www.linkedin.com/in/affan-imran/)  
+📍 Manchester | Abu Dhabi  
